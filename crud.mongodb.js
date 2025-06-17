@@ -34,6 +34,12 @@ db.courses.insertMany([
       "projects": 38
     },
     {
+      "name": "Java Programming Essentials",
+      "price": 0,
+      "assignments": 14,
+      "projects": 38
+    },
+    {
       "name": "ReactJS Crash Course",
       "price": 0,
       "assignments": 10,
